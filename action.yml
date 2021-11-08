@@ -1,6 +1,6 @@
 name: scaling-memory-test-action
 description: Testing actions workflows
-author: @michaelfdickey
+author: Michael Dickey
 branding:
   icon: 'paperclip'
   color: 'white'
